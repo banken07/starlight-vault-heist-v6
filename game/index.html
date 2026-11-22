@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Starlight Vault — Steal the Comet Diamond</title>
+<style>
+  html, body { margin: 0; padding: 0; background: #070a16; }
+  body { display: flex; flex-direction: column; align-items: center; font-family: system-ui, sans-serif; }
+  #game { display: block; width: 1280px; height: 800px; max-width: 100vw; }
+  #shot-caption { color: #9aa7c7; font-size: 13px; padding: 8px 12px; text-align: center; }
+  #help { color: #eef2ff; font-size: 13px; padding: 0 12px 12px; text-align: center; max-width: 1280px; }
+  #help b { color: #ffd166; }
+</style>
+</head>
+<body>
+<canvas id="game" width="1280" height="800"></canvas>
+<p id="shot-caption">Starlight Vault</p>
+<p id="help"><b>Starlight Vault</b> — steal the Comet Diamond from the midnight observatory.
+Move with <b>WASD / arrows</b>, sneak with <b>Shift</b>, act with <b>E</b>, tools with <b>1 / 2 / 3</b>.
+Three rooms: the Map Room, the Telescope Dome, the Star Vault. Guards MARA and JULES patrol with
+amber vision cones; brass-eye cameras sweep red cones. Small loot buys tools: lockpick 10 coins,
+smoke 15, lens cap 8. Pick the glass case, grab the diamond, ride the zipline out before the alarm
+catches you. Click the floor to walk there. <b>M</b> mute, <b>R</b> restart.</p>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>
