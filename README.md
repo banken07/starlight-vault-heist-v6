@@ -1,6 +1,8 @@
 # Starlight Vault — Best Heist Game
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/c/best-heist-game-20261122-0559)
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/banken07/starlight-vault-heist-v6/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/banken07/starlight-vault-heist-v6/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
 Steal the **Comet Diamond** from a midnight observatory in this original
 top-down heist game. Three rooms — the Map Room, the Telescope Dome, the
